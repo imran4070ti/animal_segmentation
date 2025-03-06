@@ -230,5 +230,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - imranhasan.mhs13@gmail.com
 Project Link: [https://github.com/imran4070ti/animal_segmentation](https://github.com/imran4070ti/animal_segmentation)
